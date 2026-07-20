@@ -2,12 +2,13 @@
   "branchPrefix": "26.2",
   "username": "renovate-release",
   "gitAuthor": "Renovate Bot <bot@renovateapp.com>",
-  "onboarding": true,
+  "onboarding": false,
   "platform": "github",
   "forkProcessing": "enabled",
   "repositories": [
     "LexManos/MinecraftForge"
   ],
+  "useBaseBranchConfig": "merge",
   "packageRules": [
     {
       "description": "lockFileMaintenance",
