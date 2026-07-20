@@ -9,6 +9,7 @@
   ],
   "useBaseBranchConfig": "merge",
   "dependencyDashboard": true,
+  "prHourlyLimit": 50,
   "packageRules": [
     {
       "description": "lockFileMaintenance",
