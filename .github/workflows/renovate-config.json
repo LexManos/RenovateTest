@@ -7,22 +7,5 @@
   "repositories": [
     "LexManos/MinecraftForge"
   ],
-  "useBaseBranchConfig": "merge",
-  "dependencyDashboard": true,
-  "prHourlyLimit": 50,
-  "packageRules": [
-    {
-      "description": "lockFileMaintenance",
-      "matchUpdateTypes": [
-        "pin",
-        "digest",
-        "patch",
-        "minor",
-        "major",
-        "lockFileMaintenance"
-      ],
-      "dependencyDashboardApproval": false,
-      "minimumReleaseAge": "1 day"
-    }
-  ]
+  "useBaseBranchConfig": "merge"
 }
